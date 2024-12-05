@@ -1,0 +1,7 @@
+omni-kit-common>=105.1
+omni-kit-viewport>=105.1
+omni-kit-usd>=105.1
+omni-client>=105.1
+numpy>=1.21.0
+pandas>=1.3.0
+PyQt5>=5.15.0 
